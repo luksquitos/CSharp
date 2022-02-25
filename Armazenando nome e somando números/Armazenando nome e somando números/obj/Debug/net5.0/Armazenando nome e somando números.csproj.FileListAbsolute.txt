@@ -1,0 +1,16 @@
+C:\Users\lucas\Documents\C#\Armazenando nome e somando números\Armazenando nome e somando números\bin\Debug\net5.0\Armazenando nome e somando números.exe
+C:\Users\lucas\Documents\C#\Armazenando nome e somando números\Armazenando nome e somando números\bin\Debug\net5.0\Armazenando nome e somando números.deps.json
+C:\Users\lucas\Documents\C#\Armazenando nome e somando números\Armazenando nome e somando números\bin\Debug\net5.0\Armazenando nome e somando números.runtimeconfig.json
+C:\Users\lucas\Documents\C#\Armazenando nome e somando números\Armazenando nome e somando números\bin\Debug\net5.0\Armazenando nome e somando números.runtimeconfig.dev.json
+C:\Users\lucas\Documents\C#\Armazenando nome e somando números\Armazenando nome e somando números\bin\Debug\net5.0\Armazenando nome e somando números.dll
+C:\Users\lucas\Documents\C#\Armazenando nome e somando números\Armazenando nome e somando números\bin\Debug\net5.0\Armazenando nome e somando números.pdb
+C:\Users\lucas\Documents\C#\Armazenando nome e somando números\Armazenando nome e somando números\obj\Debug\net5.0\Armazenando nome e somando números.csproj.AssemblyReference.cache
+C:\Users\lucas\Documents\C#\Armazenando nome e somando números\Armazenando nome e somando números\obj\Debug\net5.0\Armazenando nome e somando números.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\C#\Armazenando nome e somando números\Armazenando nome e somando números\obj\Debug\net5.0\Armazenando nome e somando números.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\C#\Armazenando nome e somando números\Armazenando nome e somando números\obj\Debug\net5.0\Armazenando nome e somando números.AssemblyInfo.cs
+C:\Users\lucas\Documents\C#\Armazenando nome e somando números\Armazenando nome e somando números\obj\Debug\net5.0\Armazenando nome e somando números.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\C#\Armazenando nome e somando números\Armazenando nome e somando números\obj\Debug\net5.0\Armazenando nome e somando números.dll
+C:\Users\lucas\Documents\C#\Armazenando nome e somando números\Armazenando nome e somando números\obj\Debug\net5.0\refint\Armazenando nome e somando números.dll
+C:\Users\lucas\Documents\C#\Armazenando nome e somando números\Armazenando nome e somando números\obj\Debug\net5.0\Armazenando nome e somando números.pdb
+C:\Users\lucas\Documents\C#\Armazenando nome e somando números\Armazenando nome e somando números\obj\Debug\net5.0\Armazenando nome e somando números.genruntimeconfig.cache
+C:\Users\lucas\Documents\C#\Armazenando nome e somando números\Armazenando nome e somando números\obj\Debug\net5.0\ref\Armazenando nome e somando números.dll

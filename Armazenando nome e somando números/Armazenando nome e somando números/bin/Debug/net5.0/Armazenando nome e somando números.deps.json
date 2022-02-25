@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Armazenando nome e somando números/1.0.0": {
+        "runtime": {
+          "Armazenando nome e somando números.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Armazenando nome e somando números/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
