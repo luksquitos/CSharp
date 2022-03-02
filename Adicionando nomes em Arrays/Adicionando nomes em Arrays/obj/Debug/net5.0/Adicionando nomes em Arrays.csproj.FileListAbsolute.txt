@@ -1,0 +1,16 @@
+C:\Users\lucas\Documents\C#\Adicionando nomes em Arrays\Adicionando nomes em Arrays\bin\Debug\net5.0\Adicionando nomes em Arrays.exe
+C:\Users\lucas\Documents\C#\Adicionando nomes em Arrays\Adicionando nomes em Arrays\bin\Debug\net5.0\Adicionando nomes em Arrays.deps.json
+C:\Users\lucas\Documents\C#\Adicionando nomes em Arrays\Adicionando nomes em Arrays\bin\Debug\net5.0\Adicionando nomes em Arrays.runtimeconfig.json
+C:\Users\lucas\Documents\C#\Adicionando nomes em Arrays\Adicionando nomes em Arrays\bin\Debug\net5.0\Adicionando nomes em Arrays.runtimeconfig.dev.json
+C:\Users\lucas\Documents\C#\Adicionando nomes em Arrays\Adicionando nomes em Arrays\bin\Debug\net5.0\Adicionando nomes em Arrays.dll
+C:\Users\lucas\Documents\C#\Adicionando nomes em Arrays\Adicionando nomes em Arrays\bin\Debug\net5.0\Adicionando nomes em Arrays.pdb
+C:\Users\lucas\Documents\C#\Adicionando nomes em Arrays\Adicionando nomes em Arrays\obj\Debug\net5.0\Adicionando nomes em Arrays.csproj.AssemblyReference.cache
+C:\Users\lucas\Documents\C#\Adicionando nomes em Arrays\Adicionando nomes em Arrays\obj\Debug\net5.0\Adicionando nomes em Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\C#\Adicionando nomes em Arrays\Adicionando nomes em Arrays\obj\Debug\net5.0\Adicionando nomes em Arrays.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\C#\Adicionando nomes em Arrays\Adicionando nomes em Arrays\obj\Debug\net5.0\Adicionando nomes em Arrays.AssemblyInfo.cs
+C:\Users\lucas\Documents\C#\Adicionando nomes em Arrays\Adicionando nomes em Arrays\obj\Debug\net5.0\Adicionando nomes em Arrays.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\C#\Adicionando nomes em Arrays\Adicionando nomes em Arrays\obj\Debug\net5.0\Adicionando nomes em Arrays.dll
+C:\Users\lucas\Documents\C#\Adicionando nomes em Arrays\Adicionando nomes em Arrays\obj\Debug\net5.0\refint\Adicionando nomes em Arrays.dll
+C:\Users\lucas\Documents\C#\Adicionando nomes em Arrays\Adicionando nomes em Arrays\obj\Debug\net5.0\Adicionando nomes em Arrays.pdb
+C:\Users\lucas\Documents\C#\Adicionando nomes em Arrays\Adicionando nomes em Arrays\obj\Debug\net5.0\Adicionando nomes em Arrays.genruntimeconfig.cache
+C:\Users\lucas\Documents\C#\Adicionando nomes em Arrays\Adicionando nomes em Arrays\obj\Debug\net5.0\ref\Adicionando nomes em Arrays.dll
